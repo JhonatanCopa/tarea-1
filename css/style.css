@@ -1,0 +1,150 @@
+*{
+    background-color: darkgray;
+}
+#principal{
+    width: 800px;
+    height:2000px;
+    background-color: aquamarine;
+    margin: 20px;
+}
+#uno{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius:100px;
+    display: inline-block;
+    position: relative;
+    left: 150px;
+    top: 150px;
+}
+#dos{
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    
+    display: inline-block;
+    position: relative; /*fixed*/
+    top: 10px;
+}
+#tres{
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    display: inline-block;
+    position: relative;/*sticky*/
+    top: 300px;
+}
+#tres-1{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    transform: rotate(45deg);
+}
+#cara{
+    width: 500px;
+    height:500px;
+    background-color: papayawhip;
+    position: static;
+    margin-top: 700px;
+    margin-left: 100px;
+    border-radius: 180px;
+}
+#boca-1{
+    width: 180px;
+    height: 5px;
+    background-color: black;
+    position: relative;
+    top: 45px;
+    left: 45px;
+}
+#boca-2{
+    width: 250px;
+    height: 90px;
+    background-color: brown;
+    border-radius: 80px;
+    position: relative; 
+    top: 30px;
+    left: 50px;
+}
+#boca-3{
+    width: 350px;
+    height: 160px;
+    background-color: rgb(248, 247, 247);
+    border-radius: 80px;
+    position: relative;
+    left: 80px;
+    display: inline-block;
+    top: 3px;
+
+}
+#nariz{
+    width: 120px;
+    height: 120px;
+    background-color: red;    
+    border-radius: 60px;    
+    position: relative;
+    left: 195px;
+   bottom: 230px;
+    
+}
+#iriz{
+    width: 70px;
+    height: 70px;
+    background-color: black;    
+    border-radius: 60px;    
+    position: relative;
+    left: 10px;
+    top: 55px;  ;  
+}
+#irde{
+    width: 70px;
+    height: 70px;
+    background-color: black;    
+    border-radius: 60px;    
+    position: relative;
+    left: 10px;
+    top: 55px;  
+}
+#ojiz{
+    width: 90px;
+    height: 150px;
+    background-color: white;    
+    border-radius: 60px;    
+    position: relative;
+    left: 120px;
+    top: 185px;  
+}
+#ojde{
+    width: 90px;
+    height: 150px;
+    background-color: white;    
+    border-radius: 60px;    
+    position: relative;
+    left: 300px;
+   top: 35px;
+}
+#sombrero{
+    bottom: 4px;
+    background-color: aqua;
+}
+#base{
+    width: 650px;
+    height: 50px;
+    background-color: pink;
+    position: relative;
+    bottom: 550px;
+    right: 65px;
+    border-radius: 40px;
+}
+#copa{
+    width: 500px;
+    height: 200px;
+    background-color:pink;
+    position: relative;
+    bottom: 180px;
+    left: 65px;
+    border-radius: 40px;
+}
